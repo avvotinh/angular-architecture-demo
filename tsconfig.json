@@ -13,5 +13,7 @@
     {
       "path": "./projects/my-epic-app/tsconfig.spec.json"
     }
-]
+  ],
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
 }
